@@ -152,5 +152,19 @@
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/9baXvjslxKA/maxresdefault.jpg",
     "embedUrl": null
+  },
+  {
+    "id": "1755032987153",
+    "url": "https://open.spotify.com/episode/1LE1H8gZrSYOLg2bFgXNsr?si=c2a009ec931a4f92",
+    "contentId": "1LE1H8gZrSYOLg2bFgXNsr",
+    "type": "spotify",
+    "title": "Einfach Franzi",
+    "summary": "Der Podcast für alle Fahrlehreranwärter & Dozenten",
+    "competency": "4",
+    "dateAdded": "12.8.2025",
+    "timeAdded": "23:09:47",
+    "addedBy": "Teammitglied",
+    "thumbnail": null,
+    "embedUrl": "https://open.spotify.com/embed/episode/1LE1H8gZrSYOLg2bFgXNsr"
   }
 ]
