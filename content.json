@@ -96,5 +96,19 @@
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/l3cpM6jbqNA/maxresdefault.jpg",
     "embedUrl": null
+  },
+  {
+    "id": "1755032841555",
+    "url": "https://www.youtube.com/watch?v=avNYUJ1duik",
+    "contentId": "avNYUJ1duik",
+    "type": "youtube",
+    "title": "Wie funktioniert eine Ampelschaltung?",
+    "summary": "Die Sendung mit der Maus",
+    "competency": "3",
+    "dateAdded": "12.8.2025",
+    "timeAdded": "23:07:21",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/avNYUJ1duik/maxresdefault.jpg",
+    "embedUrl": null
   }
 ]
