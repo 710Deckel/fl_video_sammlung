@@ -4,13 +4,27 @@
     "url": "https://www.youtube.com/watch?v=vRZu3-64yo0",
     "contentId": "vRZu3-64yo0",
     "type": "youtube",
-    "title": "Kühlsystem für Automotoren",
-    "summary": "Keine Beschreibung verfügbar",
+    "title": "KÃ¼hlsystem fÃ¼r Automotoren",
+    "summary": "Keine Beschreibung verfÃ¼gbar",
     "competency": "3",
     "dateAdded": "12.8.2025",
     "timeAdded": "22:28:54",
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/vRZu3-64yo0/maxresdefault.jpg",
+    "embedUrl": null
+  },
+  {
+    "id": "1755032627834",
+    "url": "https://www.youtube.com/watch?v=CiPhJj7fDX4",
+    "contentId": "CiPhJj7fDX4",
+    "type": "youtube",
+    "title": "Besser lernen | Vera F Birkenbihl",
+    "summary": "Vera F. Birkenbihl zeigt, wie einfach man sich Dinge merken lernt. Die besten Lerntipps. Gehirn-gerecht lernen.",
+    "competency": "4",
+    "dateAdded": "12.8.2025",
+    "timeAdded": "23:03:47",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/CiPhJj7fDX4/maxresdefault.jpg",
     "embedUrl": null
   }
 ]
