@@ -54,5 +54,19 @@
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/vVNX--ROvtU/maxresdefault.jpg",
     "embedUrl": null
+  },
+  {
+    "id": "1755032782122",
+    "url": "https://www.youtube.com/watch?v=on-PhI5Rlyc",
+    "contentId": "on-PhI5Rlyc",
+    "type": "youtube",
+    "title": "Autobau Teil 2",
+    "summary": "Die Sendung mit der Maus",
+    "competency": "3",
+    "dateAdded": "12.8.2025",
+    "timeAdded": "23:06:22",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/on-PhI5Rlyc/maxresdefault.jpg",
+    "embedUrl": null
   }
 ]
