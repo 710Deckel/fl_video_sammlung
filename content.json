@@ -187,12 +187,26 @@
     "contentId": "80nNEwXppjw",
     "type": "youtube",
     "title": "ALLE Verkehrszeichen in 2025",
-    "summary": "Hier findest du einfach alle Verkehrszeichen in einem Video.\nAusserdem gibts alle wichtigen Infos die du für deine Theorie & Praxis Prüfung brauchst.",
+    "summary": "Hier findest du einfach alle Verkehrszeichen in einem Video.\nAusserdem gibts alle wichtigen Infos die du fï¿½r deine Theorie & Praxis Prï¿½fung brauchst.",
     "competency": "1",
     "dateAdded": "18.8.2025",
     "timeAdded": "13:04:35",
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/80nNEwXppjw/maxresdefault.jpg",
+    "embedUrl": null
+  },
+  {
+    "id": "1755518560897",
+    "url": "https://www.youtube.com/watch?v=YEFc6WbTZ_s",
+    "contentId": "YEFc6WbTZ_s",
+    "type": "youtube",
+    "title": "So behältst du den Überblick über alle Verkehrszeichen!",
+    "summary": "ADAC -  Wie ihr im Schilderwald den Überblick behaltet und welche einfachen Grundregeln es gibt, um auch unbekannte Verkehrszeichen zu erkennen, erklärt Clubjurist Alexander Sievers in diesem Video.",
+    "competency": "1",
+    "dateAdded": "18.8.2025",
+    "timeAdded": "14:02:40",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/YEFc6WbTZ_s/maxresdefault.jpg",
     "embedUrl": null
   }
 ]
