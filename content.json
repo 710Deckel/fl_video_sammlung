@@ -215,12 +215,26 @@
     "contentId": "0d30BkgDbO6qOHCY891CYY",
     "type": "spotify",
     "title": "Die StVO - Christoph Maria Herbst",
-    "summary": "Keine Beschreibung verfügbar",
+    "summary": "Keine Beschreibung verfï¿½gbar",
     "competency": "1",
     "dateAdded": "18.8.2025",
     "timeAdded": "16:53:23",
     "addedBy": "Teammitglied",
     "thumbnail": null,
     "embedUrl": "https://open.spotify.com/embed/album/0d30BkgDbO6qOHCY891CYY"
+  },
+  {
+    "id": "1756212359040",
+    "url": "https://www.youtube.com/watch?v=9TTy6xkl5cA",
+    "contentId": "9TTy6xkl5cA",
+    "type": "youtube",
+    "title": "Wir lieben das Fahren",
+    "summary": "Keine Beschreibung verfügbar",
+    "competency": "6",
+    "dateAdded": "26.8.2025",
+    "timeAdded": "14:45:59",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/9TTy6xkl5cA/maxresdefault.jpg",
+    "embedUrl": null
   }
 ]
