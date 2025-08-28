@@ -229,12 +229,26 @@
     "contentId": "9TTy6xkl5cA",
     "type": "youtube",
     "title": "Wir lieben das Fahren",
-    "summary": "Keine Beschreibung verfügbar",
+    "summary": "Keine Beschreibung verfï¿½gbar",
     "competency": "6",
     "dateAdded": "26.8.2025",
     "timeAdded": "14:45:59",
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/9TTy6xkl5cA/maxresdefault.jpg",
+    "embedUrl": null
+  },
+  {
+    "id": "1756365836650",
+    "url": "https://youtu.be/kZhjO3qK7i4?si=O-PVdlbOOm_0LMW_",
+    "contentId": "kZhjO3qK7i4",
+    "type": "youtube",
+    "title": "Tod im Nebel",
+    "summary": "Die Katastrophe der Münchbergersenke",
+    "competency": "1",
+    "dateAdded": "28.8.2025",
+    "timeAdded": "09:23:56",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/kZhjO3qK7i4/maxresdefault.jpg",
     "embedUrl": null
   }
 ]
