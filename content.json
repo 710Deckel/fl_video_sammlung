@@ -243,12 +243,26 @@
     "contentId": "kZhjO3qK7i4",
     "type": "youtube",
     "title": "Tod im Nebel",
-    "summary": "Die Katastrophe der Münchbergersenke",
+    "summary": "Die Katastrophe der Mï¿½nchbergersenke",
     "competency": "1",
     "dateAdded": "28.8.2025",
     "timeAdded": "09:23:56",
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/kZhjO3qK7i4/maxresdefault.jpg",
+    "embedUrl": null
+  },
+  {
+    "id": "1756742606517",
+    "url": "https://youtu.be/jUjRn1r9h48?si=PBNDyxadRLVvlnEK",
+    "contentId": "jUjRn1r9h48",
+    "type": "youtube",
+    "title": "CHINA hat es getan: Erstes Auto mit Feststoff-Akku kommt noch 2025!",
+    "summary": "Das erste massenproduzierte E-Auto mit (Semi-) Feststoff-Akku kommt auf den Markt, das US-Startup Lyten übernimmt Northvolt-Fabriken & Lucid knackt den Reichweiten-Rekord bei Elektroautos",
+    "competency": "3",
+    "dateAdded": "1.9.2025",
+    "timeAdded": "18:03:26",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/jUjRn1r9h48/maxresdefault.jpg",
     "embedUrl": null
   }
 ]
