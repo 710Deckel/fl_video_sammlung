@@ -257,12 +257,26 @@
     "contentId": "jUjRn1r9h48",
     "type": "youtube",
     "title": "CHINA hat es getan: Erstes Auto mit Feststoff-Akku kommt noch 2025!",
-    "summary": "Das erste massenproduzierte E-Auto mit (Semi-) Feststoff-Akku kommt auf den Markt, das US-Startup Lyten übernimmt Northvolt-Fabriken & Lucid knackt den Reichweiten-Rekord bei Elektroautos",
+    "summary": "Das erste massenproduzierte E-Auto mit (Semi-) Feststoff-Akku kommt auf den Markt, das US-Startup Lyten ï¿½bernimmt Northvolt-Fabriken & Lucid knackt den Reichweiten-Rekord bei Elektroautos",
     "competency": "3",
     "dateAdded": "1.9.2025",
     "timeAdded": "18:03:26",
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/jUjRn1r9h48/maxresdefault.jpg",
+    "embedUrl": null
+  },
+  {
+    "id": "1756798017222",
+    "url": "https://youtu.be/2vDVvpYSZtk?si=qmZzWMEH-oDF3ba9",
+    "contentId": "2vDVvpYSZtk",
+    "type": "youtube",
+    "title": "Funktionsweise schraubenkonpressor",
+    "summary": "Eldar",
+    "competency": "3",
+    "dateAdded": "2.9.2025",
+    "timeAdded": "09:26:57",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/2vDVvpYSZtk/maxresdefault.jpg",
     "embedUrl": null
   }
 ]
