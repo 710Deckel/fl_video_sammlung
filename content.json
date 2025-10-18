@@ -320,5 +320,19 @@
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/4-RQerhzpyM/maxresdefault.jpg",
     "embedUrl": null
+  },
+  {
+    "id": "1760786980672",
+    "url": "https://www.youtube.com/watch?v=MVJ_jM_SdHw",
+    "contentId": "MVJ_jM_SdHw",
+    "type": "youtube",
+    "title": "Cybertruck Explained",
+    "summary": "Beschreibung 3d eines Cybertruck in Englisch",
+    "competency": "3",
+    "dateAdded": "18.10.2025",
+    "timeAdded": "13:29:40",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/MVJ_jM_SdHw/maxresdefault.jpg",
+    "embedUrl": null
   }
 ]
