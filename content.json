@@ -341,12 +341,26 @@
     "contentId": "6BgfsbQFYYk",
     "type": "youtube",
     "title": "Scheinwerfer im Vergleich",
-    "summary": "Halogen, LED, Matrix, oder Digital? was ihr wissen müsst!",
+    "summary": "Halogen, LED, Matrix, oder Digital? was ihr wissen mï¿½sst!",
     "competency": "3",
     "dateAdded": "10.11.2025",
     "timeAdded": "10:43:31",
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/6BgfsbQFYYk/maxresdefault.jpg",
+    "embedUrl": null
+  },
+  {
+    "id": "1762806665041",
+    "url": "https://www.youtube.com/watch?v=KMqv1G7Kt_I",
+    "contentId": "KMqv1G7Kt_I",
+    "type": "youtube",
+    "title": "Funktionsweise eines Turboladers",
+    "summary": "In diesem Video wird die Funktionsweise und der Aufbau des Turboladers anhand eines aufgeladenen Dieselmotors erklärt.",
+    "competency": "3",
+    "dateAdded": "10.11.2025",
+    "timeAdded": "21:31:05",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/KMqv1G7Kt_I/maxresdefault.jpg",
     "embedUrl": null
   }
 ]
