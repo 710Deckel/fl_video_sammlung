@@ -334,5 +334,19 @@
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/MVJ_jM_SdHw/maxresdefault.jpg",
     "embedUrl": null
+  },
+  {
+    "id": "1762767811479",
+    "url": "https://www.youtube.com/watch?v=6BgfsbQFYYk",
+    "contentId": "6BgfsbQFYYk",
+    "type": "youtube",
+    "title": "Scheinwerfer im Vergleich",
+    "summary": "Halogen, LED, Matrix, oder Digital? was ihr wissen müsst!",
+    "competency": "3",
+    "dateAdded": "10.11.2025",
+    "timeAdded": "10:43:31",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/6BgfsbQFYYk/maxresdefault.jpg",
+    "embedUrl": null
   }
 ]
