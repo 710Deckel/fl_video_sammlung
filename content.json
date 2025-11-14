@@ -355,12 +355,26 @@
     "contentId": "KMqv1G7Kt_I",
     "type": "youtube",
     "title": "Funktionsweise eines Turboladers",
-    "summary": "In diesem Video wird die Funktionsweise und der Aufbau des Turboladers anhand eines aufgeladenen Dieselmotors erklärt.",
+    "summary": "In diesem Video wird die Funktionsweise und der Aufbau des Turboladers anhand eines aufgeladenen Dieselmotors erklï¿½rt.",
     "competency": "3",
     "dateAdded": "10.11.2025",
     "timeAdded": "21:31:05",
     "addedBy": "Teammitglied",
     "thumbnail": "https://img.youtube.com/vi/KMqv1G7Kt_I/maxresdefault.jpg",
+    "embedUrl": null
+  },
+  {
+    "id": "1763156645177",
+    "url": "https://www.youtube.com/watch?v=wsAGWzns180",
+    "contentId": "wsAGWzns180",
+    "type": "youtube",
+    "title": "Das Tauerntunnel Inferno",
+    "summary": "25 Jahre nach der Brand Katastrophe im Tauern-Tunnel zeichnet die ServusTV-Reportage die Ereignisse nach, befragt Augenzeugen und Einsatzkräfte, die dem Flammeninferno entkommen konnten. Darüber hinaus wird vor dem Start der Urlaubs- und Reisesaison beleuchtet, welche Sicherheitsmaßnahmen durch die Katastrophe ergriffen wurden und ob Tunnelbetreiber und Einsatzkräfte heute für den Ernstfall gewappnet sind. Denn Österreich ist nicht nur ein Land der Berge sondern auch ein Land der Tunnel.",
+    "competency": "3",
+    "dateAdded": "14.11.2025",
+    "timeAdded": "22:44:05",
+    "addedBy": "Teammitglied",
+    "thumbnail": "https://img.youtube.com/vi/wsAGWzns180/maxresdefault.jpg",
     "embedUrl": null
   }
 ]
