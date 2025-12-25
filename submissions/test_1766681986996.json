@@ -1,0 +1,9 @@
+{
+  "title": "test",
+  "type": "text",
+  "content": "test",
+  "contentLength": 4,
+  "consentGiven": true,
+  "submittedAt": "2025-12-25T16:59:46.996Z",
+  "securityCheck": "JSON_ONLY_TEXT_HIGH_CAPACITY"
+}
